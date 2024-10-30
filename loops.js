@@ -11,7 +11,7 @@ hello:"jacob"
 }
 console.log(obj["name"])
 
-// //for in loop
+// //for in loo
 // // for(key in obj){
 // //     element=obj[key]
 // //     console.log(key,element)
